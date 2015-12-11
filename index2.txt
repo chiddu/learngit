@@ -1,3 +1,8 @@
 First line in a file called index2.txt
+<<<<<<< HEAD
 Second Line 
 i made chnages.
+=======
+This is an alternate second line
+Second Line 
+>>>>>>> origin/master
