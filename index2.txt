@@ -1,2 +1,4 @@
 First line in a file called index2.txt
 this is a second line
+This is an alternate second line
+Second Line 
