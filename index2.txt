@@ -1,0 +1,1 @@
+First line in a file called index2.txt
